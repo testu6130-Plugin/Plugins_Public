@@ -1,1 +1,7 @@
-
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mosopenplugintestrepo",
+  "version": "1.0.0",
+  "description": "A test plugin containing a code review skill.",
+  "repository": "https://github.com/ChjettiAwesomeOrg/mosopenplugintestrepo"
+}
